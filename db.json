@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "String": "  whitespaces  everywhere  .  ",
+    "Enumeration": "1,2",
+    "Number": "2",
+    "Boolean": "true"
+  }
+]
